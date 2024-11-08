@@ -1,0 +1,412 @@
+Bus 1 arrived. 0 riders are waiting to board the bus.
+Bus 1 Departed
+Rider 1 waiting for a bus
+Rider 2 waiting for a bus
+Rider 3 waiting for a bus
+Rider 4 waiting for a bus
+Rider 5 waiting for a bus
+Rider 6 waiting for a bus
+Rider 7 waiting for a bus
+Bus 2 arrived. 7 riders are waiting to board the bus.
+Rider 1  boarded the bus 
+Rider 2  boarded the bus 
+Rider 3  boarded the bus 
+Rider 4  boarded the bus 
+Rider 5  boarded the bus 
+Rider 6  boarded the bus 
+Rider 7  boarded the bus 
+Bus 2 Departed
+Rider 8 waiting for a bus
+Rider 9 waiting for a bus
+Rider 10 waiting for a bus
+Rider 11 waiting for a bus
+Rider 12 waiting for a bus
+Rider 13 waiting for a bus
+Rider 14 waiting for a bus
+Rider 15 waiting for a bus
+Rider 16 waiting for a bus
+Rider 17 waiting for a bus
+Rider 18 waiting for a bus
+Rider 19 waiting for a bus
+Rider 20 waiting for a bus
+Rider 21 waiting for a bus
+Rider 22 waiting for a bus
+Rider 23 waiting for a bus
+Rider 24 waiting for a bus
+Rider 25 waiting for a bus
+Rider 26 waiting for a bus
+Rider 27 waiting for a bus
+Rider 28 waiting for a bus
+Rider 29 waiting for a bus
+Rider 30 waiting for a bus
+Rider 31 waiting for a bus
+Rider 32 waiting for a bus
+Rider 33 waiting for a bus
+Rider 34 waiting for a bus
+Rider 35 waiting for a bus
+Rider 36 waiting for a bus
+Rider 37 waiting for a bus
+Rider 38 waiting for a bus
+Rider 39 waiting for a bus
+Rider 40 waiting for a bus
+Rider 41 waiting for a bus
+Rider 42 waiting for a bus
+Rider 43 waiting for a bus
+Rider 44 waiting for a bus
+Rider 45 waiting for a bus
+Rider 46 waiting for a bus
+Rider 47 waiting for a bus
+Rider 48 waiting for a bus
+Rider 49 waiting for a bus
+Rider 50 waiting for a bus
+Rider 51 waiting for a bus
+Rider 52 waiting for a bus
+Rider 53 waiting for a bus
+Rider 54 waiting for a bus
+Rider 55 waiting for a bus
+Rider 56 waiting for a bus
+Rider 57 waiting for a bus
+Bus 3 arrived. 50 riders are waiting to board the bus.
+Rider 8  boarded the bus 
+Rider 9  boarded the bus 
+Rider 10  boarded the bus 
+Rider 11  boarded the bus 
+Rider 12  boarded the bus 
+Rider 13  boarded the bus 
+Rider 14  boarded the bus 
+Rider 15  boarded the bus 
+Rider 16  boarded the bus 
+Rider 17  boarded the bus 
+Rider 18  boarded the bus 
+Rider 19  boarded the bus 
+Rider 20  boarded the bus 
+Rider 21  boarded the bus 
+Rider 22  boarded the bus 
+Rider 23  boarded the bus 
+Rider 24  boarded the bus 
+Rider 25  boarded the bus 
+Rider 26  boarded the bus 
+Rider 27  boarded the bus 
+Rider 28  boarded the bus 
+Rider 29  boarded the bus 
+Rider 30  boarded the bus 
+Rider 31  boarded the bus 
+Rider 32  boarded the bus 
+Rider 33  boarded the bus 
+Rider 34  boarded the bus 
+Rider 35  boarded the bus 
+Rider 36  boarded the bus 
+Rider 37  boarded the bus 
+Rider 38  boarded the bus 
+Rider 39  boarded the bus 
+Rider 40  boarded the bus 
+Rider 41  boarded the bus 
+Rider 42  boarded the bus 
+Rider 43  boarded the bus 
+Rider 44  boarded the bus 
+Rider 45  boarded the bus 
+Rider 46  boarded the bus 
+Rider 47  boarded the bus 
+Rider 48  boarded the bus 
+Rider 49  boarded the bus 
+Rider 50  boarded the bus 
+Rider 51  boarded the bus 
+Rider 52  boarded the bus 
+Rider 53  boarded the bus 
+Rider 54  boarded the bus 
+Rider 55  boarded the bus 
+Rider 56  boarded the bus 
+Rider 57  boarded the bus 
+Bus 3 Departed
+Rider 58 waiting for a bus
+Rider 59 waiting for a bus
+Rider 60 waiting for a bus
+Rider 61 waiting for a bus
+Rider 62 waiting for a bus
+Rider 63 waiting for a bus
+Rider 64 waiting for a bus
+Rider 65 waiting for a bus
+Rider 66 waiting for a bus
+Rider 67 waiting for a bus
+Rider 68 waiting for a bus
+Rider 69 waiting for a bus
+Rider 70 waiting for a bus
+Rider 71 waiting for a bus
+Rider 72 waiting for a bus
+Rider 73 waiting for a bus
+Rider 74 waiting for a bus
+Rider 75 waiting for a bus
+Rider 76 waiting for a bus
+Rider 77 waiting for a bus
+Rider 78 waiting for a bus
+Rider 79 waiting for a bus
+Rider 80 waiting for a bus
+Rider 81 waiting for a bus
+Rider 82 waiting for a bus
+Rider 83 waiting for a bus
+Rider 84 waiting for a bus
+Rider 85 waiting for a bus
+Rider 86 waiting for a bus
+Rider 87 waiting for a bus
+Rider 88 waiting for a bus
+Rider 89 waiting for a bus
+Rider 90 waiting for a bus
+Rider 91 waiting for a bus
+Rider 92 waiting for a bus
+Rider 93 waiting for a bus
+Rider 94 waiting for a bus
+Rider 95 waiting for a bus
+Rider 96 waiting for a bus
+Rider 97 waiting for a bus
+Rider 98 waiting for a bus
+Rider 99 waiting for a bus
+Rider 100 waiting for a bus
+Rider 101 waiting for a bus
+Rider 102 waiting for a bus
+Rider 103 waiting for a bus
+Rider 104 waiting for a bus
+Rider 105 waiting for a bus
+Rider 106 waiting for a bus
+Rider 107 waiting for a bus
+Bus 4 arrived. 50 riders are waiting to board the bus.
+Rider 58  boarded the bus 
+Rider 59  boarded the bus 
+Rider 60  boarded the bus 
+Rider 61  boarded the bus 
+Rider 62  boarded the bus 
+Rider 63  boarded the bus 
+Rider 64  boarded the bus 
+Rider 65  boarded the bus 
+Rider 66  boarded the bus 
+Rider 67  boarded the bus 
+Rider 68  boarded the bus 
+Rider 69  boarded the bus 
+Rider 70  boarded the bus 
+Rider 71  boarded the bus 
+Rider 72  boarded the bus 
+Rider 73  boarded the bus 
+Rider 74  boarded the bus 
+Rider 75  boarded the bus 
+Rider 76  boarded the bus 
+Rider 77  boarded the bus 
+Rider 78  boarded the bus 
+Rider 79  boarded the bus 
+Rider 80  boarded the bus 
+Rider 81  boarded the bus 
+Rider 82  boarded the bus 
+Rider 83  boarded the bus 
+Rider 84  boarded the bus 
+Rider 85  boarded the bus 
+Rider 86  boarded the bus 
+Rider 87  boarded the bus 
+Rider 88  boarded the bus 
+Rider 89  boarded the bus 
+Rider 90  boarded the bus 
+Rider 91  boarded the bus 
+Rider 92  boarded the bus 
+Rider 93  boarded the bus 
+Rider 94  boarded the bus 
+Rider 95  boarded the bus 
+Rider 96  boarded the bus 
+Rider 97  boarded the bus 
+Rider 98  boarded the bus 
+Rider 99  boarded the bus 
+Rider 100  boarded the bus 
+Rider 101  boarded the bus 
+Rider 102  boarded the bus 
+Rider 103  boarded the bus 
+Rider 104  boarded the bus 
+Rider 105  boarded the bus 
+Rider 106  boarded the bus 
+Rider 107  boarded the bus 
+Bus 4 Departed
+Rider 108 waiting for a bus
+Rider 109 waiting for a bus
+Rider 110 waiting for a bus
+Rider 111 waiting for a bus
+Rider 112 waiting for a bus
+Rider 113 waiting for a bus
+Rider 114 waiting for a bus
+Rider 115 waiting for a bus
+Rider 116 waiting for a bus
+Rider 117 waiting for a bus
+Rider 118 waiting for a bus
+Rider 119 waiting for a bus
+Rider 120 waiting for a bus
+Rider 121 waiting for a bus
+Rider 122 waiting for a bus
+Rider 123 waiting for a bus
+Rider 124 waiting for a bus
+Rider 125 waiting for a bus
+Rider 126 waiting for a bus
+Rider 127 waiting for a bus
+Rider 128 waiting for a bus
+Rider 129 waiting for a bus
+Rider 130 waiting for a bus
+Rider 131 waiting for a bus
+Rider 132 waiting for a bus
+Rider 133 waiting for a bus
+Rider 134 waiting for a bus
+Rider 135 waiting for a bus
+Rider 136 waiting for a bus
+Rider 137 waiting for a bus
+Rider 138 waiting for a bus
+Rider 139 waiting for a bus
+Rider 140 waiting for a bus
+Rider 141 waiting for a bus
+Rider 142 waiting for a bus
+Rider 143 waiting for a bus
+Rider 144 waiting for a bus
+Rider 145 waiting for a bus
+Rider 146 waiting for a bus
+Rider 147 waiting for a bus
+Rider 148 waiting for a bus
+Rider 149 waiting for a bus
+Rider 150 waiting for a bus
+Rider 151 waiting for a bus
+Rider 152 waiting for a bus
+Rider 153 waiting for a bus
+Rider 154 waiting for a bus
+Rider 155 waiting for a bus
+Rider 156 waiting for a bus
+Rider 157 waiting for a bus
+Bus 5 arrived. 50 riders are waiting to board the bus.
+Rider 108  boarded the bus 
+Rider 109  boarded the bus 
+Rider 110  boarded the bus 
+Rider 111  boarded the bus 
+Rider 112  boarded the bus 
+Rider 113  boarded the bus 
+Rider 114  boarded the bus 
+Rider 115  boarded the bus 
+Rider 116  boarded the bus 
+Rider 117  boarded the bus 
+Rider 118  boarded the bus 
+Rider 119  boarded the bus 
+Rider 120  boarded the bus 
+Rider 121  boarded the bus 
+Rider 122  boarded the bus 
+Rider 123  boarded the bus 
+Rider 124  boarded the bus 
+Rider 125  boarded the bus 
+Rider 126  boarded the bus 
+Rider 127  boarded the bus 
+Rider 128  boarded the bus 
+Rider 129  boarded the bus 
+Rider 130  boarded the bus 
+Rider 131  boarded the bus 
+Rider 132  boarded the bus 
+Rider 133  boarded the bus 
+Rider 134  boarded the bus 
+Rider 135  boarded the bus 
+Rider 136  boarded the bus 
+Rider 137  boarded the bus 
+Rider 138  boarded the bus 
+Rider 139  boarded the bus 
+Rider 140  boarded the bus 
+Rider 141  boarded the bus 
+Rider 142  boarded the bus 
+Rider 143  boarded the bus 
+Rider 144  boarded the bus 
+Rider 145  boarded the bus 
+Rider 146  boarded the bus 
+Rider 147  boarded the bus 
+Rider 148  boarded the bus 
+Rider 149  boarded the bus 
+Rider 150  boarded the bus 
+Rider 151  boarded the bus 
+Rider 152  boarded the bus 
+Rider 153  boarded the bus 
+Rider 154  boarded the bus 
+Rider 155  boarded the bus 
+Rider 156  boarded the bus 
+Rider 157  boarded the bus 
+Bus 5 Departed
+Rider 158 waiting for a bus
+Rider 159 waiting for a bus
+Rider 160 waiting for a bus
+Rider 161 waiting for a bus
+Rider 162 waiting for a bus
+Rider 163 waiting for a bus
+Rider 164 waiting for a bus
+Rider 165 waiting for a bus
+Rider 166 waiting for a bus
+Rider 167 waiting for a bus
+Rider 168 waiting for a bus
+Rider 169 waiting for a bus
+Rider 170 waiting for a bus
+Rider 171 waiting for a bus
+Rider 172 waiting for a bus
+Rider 173 waiting for a bus
+Rider 174 waiting for a bus
+Rider 175 waiting for a bus
+Rider 176 waiting for a bus
+Rider 177 waiting for a bus
+Rider 178 waiting for a bus
+Rider 179 waiting for a bus
+Rider 180 waiting for a bus
+Rider 181 waiting for a bus
+Rider 182 waiting for a bus
+Rider 183 waiting for a bus
+Rider 184 waiting for a bus
+Rider 185 waiting for a bus
+Rider 186 waiting for a bus
+Rider 187 waiting for a bus
+Rider 188 waiting for a bus
+Rider 189 waiting for a bus
+Rider 190 waiting for a bus
+Rider 191 waiting for a bus
+Rider 192 waiting for a bus
+Rider 193 waiting for a bus
+Rider 194 waiting for a bus
+Rider 195 waiting for a bus
+Rider 196 waiting for a bus
+Rider 197 waiting for a bus
+Rider 198 waiting for a bus
+Rider 199 waiting for a bus
+Rider 200 waiting for a bus
+Bus 6 arrived. 43 riders are waiting to board the bus.
+Rider 158  boarded the bus 
+Rider 159  boarded the bus 
+Rider 160  boarded the bus 
+Rider 161  boarded the bus 
+Rider 162  boarded the bus 
+Rider 163  boarded the bus 
+Rider 164  boarded the bus 
+Rider 165  boarded the bus 
+Rider 166  boarded the bus 
+Rider 167  boarded the bus 
+Rider 168  boarded the bus 
+Rider 169  boarded the bus 
+Rider 170  boarded the bus 
+Rider 171  boarded the bus 
+Rider 172  boarded the bus 
+Rider 173  boarded the bus 
+Rider 174  boarded the bus 
+Rider 175  boarded the bus 
+Rider 176  boarded the bus 
+Rider 177  boarded the bus 
+Rider 178  boarded the bus 
+Rider 179  boarded the bus 
+Rider 180  boarded the bus 
+Rider 181  boarded the bus 
+Rider 182  boarded the bus 
+Rider 183  boarded the bus 
+Rider 184  boarded the bus 
+Rider 185  boarded the bus 
+Rider 186  boarded the bus 
+Rider 187  boarded the bus 
+Rider 188  boarded the bus 
+Rider 189  boarded the bus 
+Rider 190  boarded the bus 
+Rider 191  boarded the bus 
+Rider 192  boarded the bus 
+Rider 193  boarded the bus 
+Rider 194  boarded the bus 
+Rider 195  boarded the bus 
+Rider 196  boarded the bus 
+Rider 197  boarded the bus 
+Rider 198  boarded the bus 
+Rider 199  boarded the bus 
+Rider 200  boarded the bus 
+Bus 6 Departed
