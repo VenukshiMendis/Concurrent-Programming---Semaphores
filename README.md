@@ -1,9 +1,6 @@
 # **Senate Bus Synchronization Problem**
 
-**Objective:**  
 This project aims to implement a concurrent program in Java that solves the Senate Bus problem. This problem involves simulating a bus stop where riders continuously arrive and wait for a bus. The synchronization challenge arises from the need to coordinate the arrival of buses and riders to ensure that only 50 riders board each bus and that boarding and departure occur in an orderly manner.
-
-### **Problem Overview:**
 
 In this scenario:
 - Riders arrive at a bus stop and wait until a bus arrives.
